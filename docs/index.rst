@@ -1,3 +1,4 @@
+
 .. SIR RelativeFlux documentation master file
 
 SIR RelativeFlux
@@ -12,10 +13,6 @@ applies it to science spectra.
    :caption: Contents
 
    overview
-   calibration
-   correction
-   product
-   validation
-   howto
+   calibration/index
+   correction/index
    api
-   changelog
