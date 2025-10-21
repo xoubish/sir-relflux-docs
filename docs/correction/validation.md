@@ -1,3 +1,3 @@
 # Validation (Correction)
 
-Placeholder.
+Placeholder for correction validation.

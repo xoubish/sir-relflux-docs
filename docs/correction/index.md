@@ -1,11 +1,10 @@
 # Correction (SCI-RFX)
 
-# Correction (SCI-RFX)
-
-Placeholder.
+**Goal:** Apply the CAL-RFX model to science spectra.
 
 ## Pages
 ```{toctree}
 :maxdepth: 1
+algorithm
 validation
 ```

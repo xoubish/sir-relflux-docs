@@ -1,3 +1,3 @@
 # Validation (Calibration)
 
-Placeholder.
+Placeholder for validation details.
